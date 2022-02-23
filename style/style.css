@@ -741,7 +741,7 @@ h6 {
 
 /*====Кнопка====*/
 .pricing_button {
-  background-color: #23a6f0 var(--bg-color-lb);
+  background-color: var(--bg-color-lb);
   border-radius: 5px;
   padding: 15px 78px;
   font-size: 14px;
